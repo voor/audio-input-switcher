@@ -2,7 +2,8 @@
     "shell-version": [
         "3.10",
         "3.12",
-        "3.20"
+        "3.20",
+        "3.24"
     ],
     "uuid": "audio-input-switcher@anduchs",
     "name": "Audio Input Switcher", 
